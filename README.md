@@ -1,4 +1,7 @@
-# Hangman Game - Python Edition image
+# Hangman Game - Python Edition 
+
+![image](https://user-images.githubusercontent.com/90836873/221802852-836db2e5-6cf7-4116-a111-dba7ca11657b.png)
+
 This is a Python implementation of the classic word-guessing game, Hangman. In this game, the player has to guess a word by guessing individual letters in a limited number of attempts. The game features an interactive console-based user interface and a library of common words to play with.
 
 ## How to Play
